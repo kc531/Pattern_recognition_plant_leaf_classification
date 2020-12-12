@@ -6,6 +6,6 @@
 
 -> Run the "Main.m" Matlab file to train the SVM models and get the results.
 
--> Drive link for resized leaf images dataset :  https://drive.google.com/drive/folders/18rivElgx0sonxuDooHw19npNCGy3fDzA
+-> Drive link for resized leaf images dataset :  https://drive.google.com/drive/folders/1KwMxeWIa1Ygio6GOvSLvkIQxQqsSLyUh
 
 -> Paste the “Plant Species” folder with images in the same path as “feature_extraction.py” before executing it.
