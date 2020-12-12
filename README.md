@@ -5,3 +5,7 @@
 	- Install "mahotas" python library to run the "feature_extraction.py" file. (command : pip install mahotas)
 
 -> Run the "Main.m" Matlab file to train the SVM models and get the results.
+
+-> Drive link for resized leaf images dataset :  https://drive.google.com/drive/folders/18rivElgx0sonxuDooHw19npNCGy3fDzA
+
+-> Paste the “Plant Species” folder with images in the same path as “feature_extraction.py” before executing it.
